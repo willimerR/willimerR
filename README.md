@@ -14,7 +14,7 @@ I'm student computer science I like web developer, My goal learn new technology
 * 🧠  I'm learning ReactJS, Firebase, Git
 
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2llN3AwejY5MHpnNWltY2d0Nm1nYmhmYmdxbnQ1cjJybGd0YTVkdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/ZDTbix65Me1YDNLDF3/giphy.gif" width="200"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2llN3AwejY5MHpnNWltY2d0Nm1nYmhmYmdxbnQ1cjJybGd0YTVkdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/ZDTbix65Me1YDNLDF3/giphy.gif" width="500"/>
 </div>
 
 ## Skills
@@ -35,8 +35,6 @@ I'm student computer science I like web developer, My goal learn new technology
 ## Contact me
 
 <p align="left"> <a href="https://www.linkedin.com/in/willimer-reyes-3b4630327/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
-
 
 
 
