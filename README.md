@@ -1,7 +1,7 @@
 
 
 
- ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Hi!, My name is Willimer
+ ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Hi!, My name is willimer
 ================================================================================================================================
 
 ### Front-end Developer
@@ -9,9 +9,9 @@
 
 I'm student computer science I like web developer, My goal learn new technology
 
-* 🌍  I'm live in Dominican Republic
+* 🌍  I'm based in Dominican Republic.
 * ✉️  You can contact me at [reyeswillimer@gmail.com](mailto:reyeswillimer@gmail.com)
-* 🧠  I'm learning ReactJS, Firebase, Git
+* 🧠  I'm learning ReactJS, Firebase, Git, TailwindCSS
 
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2llN3AwejY5MHpnNWltY2d0Nm1nYmhmYmdxbnQ1cjJybGd0YTVkdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/ZDTbix65Me1YDNLDF3/giphy.gif" width="500"/>
